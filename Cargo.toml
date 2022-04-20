@@ -11,6 +11,7 @@ keywords = ["hash", "xxhash"]
 categories = ["algorithms"]
 include = [
     "**/*.rs",
+    "tests/manifesto.txt",
     "Cargo.toml",
     "README.md",
     "LICENSE",
